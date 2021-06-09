@@ -1,0 +1,36 @@
+.dev {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  font-size: large;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(175, 243, 255);
+}
+
+.head-cont {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: bold;
+}
+
+.feedback {
+  display: flex;
+  flex-direction: column;
+  /* background-color: rgb(245, 255, 155); */
+  background-image: linear-gradient(rgb(246, 255, 161), rgb(229, 230, 240));
+}
+
+.header-feed {
+  margin: 0px auto;
+  font-size: xx-large;
+  font-weight: bold;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.head-small {
+  margin: 0px auto;
+  font-weight: bold;
+  font-size: large;
+  font-style: italic;
+}

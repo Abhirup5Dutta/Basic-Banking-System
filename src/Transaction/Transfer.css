@@ -1,0 +1,76 @@
+.transfer {
+  height: 100vh;
+  background-image: linear-gradient(rgb(130, 207, 252), rgb(229, 230, 240));
+}
+/* .container {
+  max-width: 955px;
+  border: 2px solid black;
+  border-radius: 13px;
+  padding: 33px;
+  overflow-y: auto;
+  margin: auto;
+  height: 60vh;
+  margin-bottom: 23px;
+  margin-top: 30px;
+} */
+
+label {
+  font-weight: bold;
+  font-size: large;
+}
+
+.heading {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10%;
+}
+
+.amt {
+  padding-top: 30px;
+  margin: auto;
+  width: 30%;
+}
+
+.form-input {
+  margin: 14px 0;
+  padding: 5px 13px;
+  width: 100%;
+  font-size: 19px;
+  border: 2px solid grey;
+  border-radius: 6px;
+}
+
+.btn-sty {
+  background-color: #2785c4;
+  padding: 6px;
+  border: 2px solid #2785c4;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+.btn-sty:hover {
+  transition: all 0.1s ease-in-out;
+  transform: scale(1.1);
+  border-radius: 10px;
+  box-shadow: 0 0 50px rgba(8, 8, 8, 0.2);
+}
+
+@media only screen and (max-width: 872px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+  }
+}

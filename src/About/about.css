@@ -1,0 +1,25 @@
+.about {
+  height: 100vh;
+  background-image: linear-gradient(rgb(38, 233, 200), rgb(229, 230, 240));
+}
+
+.bdy {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.regard {
+  font-weight: 500;
+  font-style: italic;
+  margin-top: 5%;
+  margin-left: 80%;
+}
+
+@media only screen and (max-width: 872px) {
+  .about {
+    height: 100%;
+  }
+}

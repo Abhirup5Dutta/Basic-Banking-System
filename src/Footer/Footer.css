@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.background {
+  background: rgba(0, 0, 0, 0.7)
+    url("https://www.incimages.com/uploaded_files/image/1920x1080/getty_158673029_9707279704500119_78594.jpg");
+  background-size: cover;
+  background-blend-mode: darken;
+}
