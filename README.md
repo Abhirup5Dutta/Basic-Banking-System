@@ -13,7 +13,7 @@ Write the following on Command Line:
 
 git clone https://github.com/Abhirup5Dutta/Basic-Banking-System.git
 
-[Website Link](https://basic-bank-49841.web.app/)
+[Basic Banking Website Link](https://basic-bank-49841.web.app/)
 
 # Alternative Method to Clone:
 You can also download the code from the Code link in green as a zip file. Then you can extract the zip file and run the steps to run the project
