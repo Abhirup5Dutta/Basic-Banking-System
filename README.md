@@ -19,7 +19,7 @@ git clone https://github.com/Abhirup5Dutta/Basic-Banking-System.git
 
 The navbar is shown twice due to its position being sticky at the top
 
-[Home Page View](https://i.imgur.com/Z5E2NpJ.jpeg)
+![Home Page View](https://i.imgur.com/Z5E2NpJ.jpeg)
 
 # Alternative Method to Clone:
 You can also download the code from the Code link in green as a zip file. Then you can extract the zip file and run the steps to run the project
