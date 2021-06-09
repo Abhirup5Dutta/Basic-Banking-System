@@ -9,7 +9,8 @@ Create a simple dynamic banking website. Flow: Home > View Customers > Transfer 
 3. npm run start
 
 # Steps to clone
-Write the following on Command Line
+Write the following on Command Line:
+
 git clone https://github.com/Abhirup5Dutta/Basic-Banking-System.git
 
 # Alternative Method to Clone:
