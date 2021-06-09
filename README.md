@@ -3,6 +3,14 @@
 
 Create a simple dynamic banking website. Flow: Home > View Customers > Transfer Money > Transaction History No Login Page. No User Creation. Only transfer of money between multiple users.
 
+# Steps to Run:
+1. Clone this project
+2. npm install
+3. npm run start
+
+# Steps to clone
+Write the following on Command Line
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
