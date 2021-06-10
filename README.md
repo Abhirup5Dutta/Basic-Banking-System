@@ -15,6 +15,10 @@ git clone https://github.com/Abhirup5Dutta/Basic-Banking-System.git
 
 [Basic Banking Website Link](https://basic-bank-49841.web.app/)
 
+# You can see the functioning of the website by clicking on the following link
+
+[Youtube Video Link](https://youtu.be/oEqMg_ias04)
+
 # Home Page View
 
 The navbar is shown twice due to its position being sticky at the top
